@@ -1,7 +1,7 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi 10S（Proton）",
+      "name": "Xiaomi10S(Proton)",
       "repo": "https://github.com/Flicker-Android-Devices/kernel_xiaomi_sm8250",
       "branch": "fifteen",
       "device": "thyme",
@@ -46,7 +46,7 @@
   },
   {
     "kernelSource": {
-      "name": "Xiaomi10S（Google）",
+      "name": "Xiaomi10S(Google)",
       "repo": "https://github.com/Flicker-Android-Devices/kernel_xiaomi_sm8250",
       "branch": "fifteen",
       "device": "thyme",
